@@ -1,16 +1,16 @@
 # Major-project-using-java
-Name: Vaishnavi Khade
+Name: Saakshi Krishnani
 
 
 
 
-Roll no: 26
+Roll no: 16
 
 
 
 
-Batch: A2
+Batch: A1
 
 
 
-Registration no: 23071131
+Registration no: 23071478
